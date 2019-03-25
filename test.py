@@ -10,4 +10,4 @@ else:
         if porcentaje>=50:
             print("Aprobado")
         else:
-            print("Suspendido")
+            print("Suspendido por ahora ")
