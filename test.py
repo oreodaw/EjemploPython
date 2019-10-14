@@ -11,3 +11,4 @@ else:
             print("Aprobado")
         else:
             print("Suspendido por ahora o no ")
+            print("Eres muy burro")
